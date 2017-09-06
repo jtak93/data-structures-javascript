@@ -1,0 +1,24 @@
+{
+  "name": "data-structures-javascript",
+  "version": "1.0.0",
+  "description": "CS fundamentals",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtak93/data-structures-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtak93/data-structures-javascript/issues"
+  },
+  "homepage": "https://github.com/jtak93/data-structures-javascript#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
